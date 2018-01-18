@@ -1,4 +1,0 @@
-
-This is a java console project using netbeans.
-
-Read the PDF file called '(Memory Menagement Simulator)' to have an overview of what the code is doing.
